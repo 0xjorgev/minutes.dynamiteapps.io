@@ -11541,3 +11541,6 @@ body.compensate-for-scrollbar {
 @media (min-width: 992px) {
   .sidenav-right {
     right: 0; } }
+
+.text-custom {
+  color: #007bff !important; }
