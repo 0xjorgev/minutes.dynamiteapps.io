@@ -1,0 +1,41 @@
+Minutes is the best meetings minutes app in the market.
+
+- CAPTURE tasks and items responsible's.
+- ADD tasks, info, due dates and done status to your meeting items
+- CALENDAR integration, create your minutes and book your meetings in your calendar with a single action
+- EXPORT your minute in CSV format and share it on any other App
+- INCREASE your productivity by creating a perfect document for every meeting
+
+FEATURES in full:
+
+- Create minutes for your meetings in a very simple yet organized way
+- Add responsible to each item if needed
+- Add due dates to each item if needed
+- Add and Edit each document item in a tap
+- Add local notifications on items with due dates
+- Duplicate items and modify on the go
+- Manage meetings attendees
+- Easy to follow minutes indicators
+
+PLUS:
+
+- NO NEED to signup or login (it's managed by your iCloud Account)
+- BUILT for iOS and iPad OS
+- SYNC your data across your devices
+
+SUBSCRIPTIONS:
+
+- Free Membership is limited up to 20 Minutes documents and 12 items per document
+- PRO Memberships allows you to create unlimited documents, items and all the PRO features added to the app in the upcoming versions.
+- PRO Membership costs $7.99 / Month or $79.99 / Year
+- Subscriptions are monthly and yearly based, unless you cancel earlier, at the end of the trial your Apple ID payment method will be automatically charged. 
+- The subscription renews automatically at the end of each period, until you cancel. To avoid being charged, cancel the subscription in your iTunes & AppStore/Apple ID account settings at least 24 hours before the end of the trial of the current subscription period. Any unused portion of a free trial will be forfeit if you purchase a subscription.
+- You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase
+
+TERMS OF SERVICES
+
+- https://minutes.dynamiteapps.io/minutes-terms-of-service.html
+
+PRIVACY POLICY
+
+- https://minutes.dynamiteapps.io/minutes-privacy-policy.html
