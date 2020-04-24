@@ -36,6 +36,10 @@ const paths = {
     },
     libs:   {
       dir:    './dist/assets/libs'
+    },
+    usdz:{
+      dir:'./src/usdz',
+      files:'./src/usdz/*'
     }
   },
   src:    {
@@ -71,6 +75,10 @@ const paths = {
     tmp:    {
       dir:    './src/.tmp',
       files:  './src/.tmp/**/*'
+    },
+    usdz:{
+      dir:'./src/usdz',
+      files:'./src/usdz/*'
     }
   }
 };
